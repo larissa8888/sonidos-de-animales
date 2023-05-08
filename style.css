@@ -1,0 +1,15 @@
+body {
+    font-family: 'Bebas Neue', cursive; 
+    background-color: rgb(253, 162, 192);
+}
+.copy_right_footer {
+    position: fixed;
+    color: darkgrey;
+    bottom: 0;
+    width:100%;
+    font-size: 18px;
+    background-color: rgb(241, 111, 181);
+    line-height: 3;
+     text-align: center;
+     text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
